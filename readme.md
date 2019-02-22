@@ -1,27 +1,30 @@
-1	Introduction
+# Syllabus #
 
-2	Count-based Distributional Models
+1. Introduction
+  **Lecture** (Amir Bakarov) ([video](https://yadi.sk/i/D5xVr9GGhkBENw "video"), [slides](https://yadi.sk/i/Ylbyx5hQ9FaTBg "slides"))
 
-3	Topic Modeling
+2.	Count-based Distributional Models
 
-4	Prediction-based Distributional Models
+3.	Topic Modeling
 
-5	Lexical-level and Morphological-level Extensions of Word2Vec
+4.	Prediction-based Distributional Models
 
-6	Evaluation of Distributional Semantic Models
+5.	Lexical-level and Morphological-level Extensions of Word2Vec
 
-7	From Words to Phrases, Sentences and Documents
+6.	Evaluation of Distributional Semantic Models
 
-8	Multi-sense Word Embeddings
+7.	From Words to Phrases, Sentences and Documents
 
-9	Cross-language Word Embeddings
+8.	Multi-sense Word Embeddings
 
-10	Recent Trends in Distributional Semantics
+9.	Cross-language Word Embeddings
 
-11	Bridging Logics, Formal Semantics and Distributional Semantics
+10.	Recent Trends in Distributional Semantics
 
-12	Algebraic Semantics and Quantum Semantics
+11.	Bridging Logics, Formal Semantics and Distributional Semantics
 
-13	Bridging Distributional Semantics and Neuroscience
+12.	Algebraic Semantics and Quantum Semantics
 
-14	Conclusion
+13.	Bridging Distributional Semantics and Neuroscience
+
+14.	Conclusion
