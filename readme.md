@@ -1,8 +1,7 @@
 # Syllabus #
 
 1. Introduction
-
-  **Lecture** (Amir Bakarov) ([video](https://yadi.sk/i/D5xVr9GGhkBENw "video"), [slides](https://yadi.sk/i/Ylbyx5hQ9FaTBg "slides"))
+    **Lecture** (Amir Bakarov) ([video](https://yadi.sk/i/D5xVr9GGhkBENw "video"), [slides](https://yadi.sk/i/Ylbyx5hQ9FaTBg "slides"))
 
 2.	Count-based Distributional Models
 
