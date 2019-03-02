@@ -1,8 +1,11 @@
 ## Week 2 ##
 ### Count-based Distributional Models ###
 
-**Lecture** (Daniil Vodolazsky) ([slides](https://yadi.sk/i/S0B1PxvQn0kAig))
+**Lecture** (Daniil Vodolazsky) ([video](https://yadi.sk/i/LE1PSY7mB4czEw), [slides](https://yadi.sk/i/S0B1PxvQn0kAig))
+
 **Seminar** (Daniil Vodolazsky) ([kaggle notebook](https://www.kaggle.com/s231644/a-simple-information-retrieval-system))
+
+**Hometask** finish the seminar notebook and pass it to Anytask until 16.03.2019.
 
 ### Additional materials ###
 * [Jurafsky, D. and Martin, J. H. (2014). Speech and language processing, volume 3. Pearson London.](https://web.stanford.edu/~jurafsky/slp3/)
