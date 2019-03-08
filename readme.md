@@ -4,7 +4,7 @@ Distributional semantics is one of the most important notions in contemporary co
 
 It is important to understand that this course is not about NLP and/or semantics in general. Many aspects crucial for a NLP (or semantics) course will be omitted, and this course is not recommended for a listener seeking for a good introductory NLP course. Instead, this course will give an exhaustive (and unique) introduction to a much more narrower NLP field called distributional semantics (in context of modern NLP techniques and linguistic theories).
 
-![](ht https://pp.userapi.com/c841632/v841632896/77065/Gn8hyNpud8U.jpg)
+![](https://pp.userapi.com/c841632/v841632896/77065/Gn8hyNpud8U.jpg)
 
 # Syllabus #
 
