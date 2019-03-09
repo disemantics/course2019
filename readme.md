@@ -1,3 +1,11 @@
+# Description #
+
+Distributional semantics is one of the most important notions in contemporary computational linguistics and NLP: representations of meaning exploiting distributional semantics framework are used in almost any NLP system. Therefore, deep understanding of distributional semantics and models based on it is crucial for resolving cutting-edge NLP tasks. The main idea of this course is to give such understanding to the listener.
+
+It is important to understand that this course is not about NLP and/or semantics in general. Many aspects crucial for a NLP (or semantics) course will be omitted, and this course is not recommended for a listener seeking for a good introductory NLP course. Instead, this course will give an exhaustive (and unique) introduction to a much more narrower NLP field called distributional semantics (in context of modern NLP techniques and linguistic theories).
+
+![](https://pp.userapi.com/c841632/v841632896/77065/Gn8hyNpud8U.jpg)
+
 # Syllabus #
 
 1. Introduction (22.02)
