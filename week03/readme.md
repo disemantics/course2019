@@ -1,7 +1,7 @@
 ## Week 3 ##
 ### Topic Modeling ###
 
-**Lecture** (Daniil Vodolazsky) ([slides](TODO))
+**Lecture** (Daniil Vodolazsky) ([video](https://yadi.sk/i/xMWJOYe8GLn4_A))
 
 **Seminar** (Daniil Vodolazsky) ([kaggle notebook](https://www.kaggle.com/s231644/topic-modeling-on-hillary-clinton-s-emails))
 
