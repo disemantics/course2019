@@ -20,9 +20,9 @@ It is important to understand that this course is not about NLP and/or semantics
 
 6.	Evaluation of Distributional Semantic Models (30.03)
 
-7.	From Words to Phrases, Sentences and Documents (06.04)
+7.	Multi-sense Word Embeddings (06.04)
 
-8.	Multi-sense Word Embeddings (13.04)
+8.	From Words to Phrases, Sentences and Documents (13.04)
 
 9.	Cross-language Word Embeddings (20.04)
 
