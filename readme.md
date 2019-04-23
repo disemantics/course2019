@@ -30,7 +30,7 @@ It is important to understand that this course is not about NLP and/or semantics
 
 11.	Compositional Distributional Semantics (04.05)
 
-12.	TODO
+12.	Contextualized Word Embeddings (11.05)
 
 13.	Bridging Distributional Semantics and Neuroscience (18.05)
 
